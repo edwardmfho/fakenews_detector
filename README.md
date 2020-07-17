@@ -34,9 +34,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Simple Fake News Detector</h3>
 
@@ -172,8 +169,6 @@ Project Link: [https://github.com/edwardmfho/fakenews_detector](https://github.c
 ## Acknowledgements
 
 * [Data-Flair Tutorial](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
-* []()
-* []()
 
 
 
@@ -192,5 +187,5 @@ Project Link: [https://github.com/edwardmfho/fakenews_detector](https://github.c
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/mfhohk
 [product-screenshot]: images/screenshot.png
