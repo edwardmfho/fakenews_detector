@@ -73,12 +73,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
+This is a really simple fake news detector using the built-in TfidfVectorizer
+and PassiveAggressiveClassifier to classify fake news. 
 
 ### Built With
 
