@@ -40,14 +40,14 @@
   <p align="center">
     It is a fake news detector based on the article in Data.Flair. 
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/edwardmfho/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/edwardmfho/repo">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/edwardmfho/repo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/edwardmfho/repo/issues">Request Feature</a>
   </p>
 </p>
 
